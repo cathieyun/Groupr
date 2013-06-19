@@ -1,0 +1,4 @@
+Groupr
+======
+
+MIT Events App
